@@ -1,0 +1,8 @@
+
+1. Tài liệu tham khảo reactjs cơ bản
+https://viblo.asia/p/reactjs-cho-nguoi-moi-bat-dau-LzD5dP9e5jY
+
+https://www.youtube.com/watch?v=zrdXI6uZuW4&list=PLzrVYRai0riSPcINVFvaCaM7Ul55DzpLd
+
+2. Các thư viện liên quan
+https://material-ui.com/
